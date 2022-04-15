@@ -41,3 +41,8 @@ table {
     text-align: center;
     margin: 20px auto;
 }
+
+td {
+    border: 2px solid #8c6b48;
+    width: 300px;
+}
