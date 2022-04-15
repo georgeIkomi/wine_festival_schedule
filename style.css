@@ -6,7 +6,7 @@ body {
 
 header {
     text-align: center;
-    margin-top: 5px;
+    margin-top: 0px;
 }
 
 h1 {
@@ -67,4 +67,8 @@ footer h3 {
     max-width: 940px;
     margin: 0 auto;
     height: 800px;
+}
+
+.left {
+    width: 150px;
 }
