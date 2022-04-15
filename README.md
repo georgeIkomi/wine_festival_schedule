@@ -7,6 +7,10 @@ the schedule of events to the attendees that visit the website.
 
 A lot of websites on the internet display information like invoice data, sports scores, stock prices and more... the information of which is naturally in a tabular format. As such, it is imperative to learn how to use the HTML ```<table>``` element to present information in a two-dimensional table to users.
 
+## Usage
+
+Simply visit [Wine Festival Schedule](https://georgeIkomi.github.io/wine_festival_schedule/) to see the output of the project.
+
 ## Technologies
 
 + HTML
